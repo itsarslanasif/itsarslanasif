@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+![image](https://github.com/itsarslanasif/itsarslanasif/assets/78555790/01eba0d6-ed16-43a3-8d64-5c83bb3cb981)
+
+
 <!--
 **itsarslanasif/itsarslanasif** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
